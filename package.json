@@ -1,0 +1,27 @@
+{
+  "name": "abdulsalam-portfolio",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npm run build && node --watch server.js",
+    "build": "node scripts/build.mjs",
+    "start": "node server.js",
+    "test": "node --test test/*.test.js",
+    "check:db": "node scripts/check-db.mjs"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.0",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.0.2",
+    "esbuild": "^0.28.2",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

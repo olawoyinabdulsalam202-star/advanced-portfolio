@@ -1,0 +1,23 @@
+{
+  "brand": "AO",
+  "name": "Abdulsalam Olawoyin",
+  "role": "Full-stack & AI developer",
+  "email": "olawoyinabdulsalam202@gmail.com",
+  "github": "https://github.com/olawoyinabdulsalam202-star",
+  "location": "Nigeria",
+  "availability": "Open to opportunities",
+  "bio": "I’m Abdulsalam, a full-stack developer and the founder of VoidStack Academy. I build web products from interface to infrastructure—client work, independent products, and the occasional late-night experiment.",
+  "principle": "A beautiful interface gets your attention. Useful, reliable software earns your trust.",
+  "games": [
+    "Free Fire",
+    "Need for Speed",
+    "Lagos Life",
+    "Blood Strike"
+  ],
+  "game_images": [
+    "",
+    "",
+    "",
+    ""
+  ]
+}
